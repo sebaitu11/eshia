@@ -82,7 +82,7 @@
 			})
 
 			$(".sucursales li").on("click",function(e){
-				$(e.currentTarget).find("hidden").slideToggle();
+				$(e.currentTarget).find(".hidden").slideToggle();
 			})
 
 
