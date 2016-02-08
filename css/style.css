@@ -799,3 +799,9 @@
 .hidden {
 	display: none;
 }
+.sucursales li {
+	border-bottom:1px solid #ccc;
+}
+.sucursales p {
+	margin: 0.8em 0 ;
+}	
