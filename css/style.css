@@ -801,7 +801,12 @@
 }
 .sucursales li {
 	border-bottom:1px solid #ccc;
+	cursor: pointer;
+	padding: 0.8em 0.5em;
+}
+.sucursales li:hover{
+  background: #fafafa;
 }
 .sucursales p {
-	margin: 0.8em 0 ;
+	margin: 0 ;
 }	
